@@ -20,6 +20,7 @@
 		}
 	},
 	"dependencies": {
-		"graphql-tag": "^2.12.6"
+		"graphql-tag": "^2.12.6",
+		"lodash.merge": "^4.6.2"
 	}
 }
