@@ -22,5 +22,8 @@
 	"dependencies": {
 		"graphql-tag": "^2.12.6",
 		"lodash.merge": "^4.6.2"
+	},
+	"devDependencies": {
+		"@types/lodash.merge": "^4.6.7"
 	}
 }
